@@ -6,3 +6,7 @@ https://www.theodinproject.com/lessons/foundations-recipes#assignment
  - write valid HTML 5
  - use structural markup
  - practice basic git workflow
+ - practice some CSS
+
+## TODO Later
+ - finish third recipe
