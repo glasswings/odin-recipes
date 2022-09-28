@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Aclonica');
+@import url('https://fonts.googleapis.com/css?family=Aladin');
 
 body {
     background-color: bisque;
@@ -16,5 +17,12 @@ h1 {
     font-family: 'Aclonica', 'Georgia', serif;
     font-size: 44px;
     font-weight: normal;
+    width: 650px;
+}
+
+h2 {
+    font-family: 'Aladin', 'Georgia', serif;
+    font-size: 24px;
+    font-weight: bold;
     width: 650px;
 }
