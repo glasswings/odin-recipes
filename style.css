@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Aclonica');
+
 body {
     background-color: bisque;
 }
@@ -8,4 +10,11 @@ p {
 
 li {
     max-width: 55ch;
+}
+
+h1 {
+    font-family: 'Aclonica', 'Georgia', serif;
+    font-size: 44px;
+    font-weight: normal;
+    width: 650px;
 }
