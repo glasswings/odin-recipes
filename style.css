@@ -2,7 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Aladin');
 
 body {
-    background-color: bisque;
+    background: radial-gradient(at 100% 100%,#b0c472,#e0d99e);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
 }
 
 p {
